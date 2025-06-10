@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Advanced Airway Podcast</title>
     <link>https://vnguyen1297.github.io/advancedairway-feed/</link>
@@ -14,7 +16,8 @@
     </itunes:owner>
     <itunes:image href="https://vnguyen1297.github.io/advancedairway-feed/logowhite.png" /> 
     <itunes:category text="Education"/>
-
+<itunes:explicit>no</itunes:explicit>    
+<atom:link href="https://vnguyen1297.github.io/advancedairway-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Endotracheal Tubes - Types, Features, and Clinical Uses</title>
       <description>
