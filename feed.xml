@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Advanced Airway Podcast</title>
+    <link>https://vnguyen1297.github.io/advancedairway-feed/</link>
+    <description>A deep dive into difficult airway management in anesthesia</description>
+    <language>en-us</language>
+    <itunes:author>Vu Nguyen</itunes:author>
+    <itunes:summary>A deep dive into difficult airway management in anesthesia</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Vu Nguyen</itunes:name>
+      <itunes:email>vu.nguyen07@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vnguyen1297.github.io/advancedairway-feed/logowhite.png" /> 
+    <itunes:category text="Education"/>
+
+    <item>
+      <title>Endotracheal Tubes - Types, Features, and Clinical Uses</title>
+      <description>
+        <![CDATA[
+        In this episode of Airway Unplugged, we dive deep into the essential tool of airway management: the endotracheal tube (ETT). Whether you're just learning the ropes or need a solid refresher, we break down everything from standard vs. specialty tubes to pediatric considerations and surgical applications.
+
+        We’ll explore:
+
+        • The differences between oral, nasal, cuffed, and uncuffed ETTs  
+        • Why tube design—like RAE, reinforced, or microlaryngeal—matters for specific procedures  
+        • Special cases like laser-resistant tubes, Endotrol, and double-lumen ETTs for lung isolation  
+        • Key tips for choosing the right tube for children  
+        • Real-world pearls to avoid common pitfalls in the OR  
+
+        From PVC to stainless steel, from Murphy eyes to bronchial blockers—this episode is your fast-track guide to mastering the tube that defines modern anesthesia.
+
+        Tune in to sharpen your skills and upgrade your airway game. Because in anesthesia, the tube tells the story.
+        ]]>
+      </description>
+      <enclosure url="https://archive.org/download/endotracheal-tubes-types-features-and-clinical-uses/endotracheal-tubes-types-features-and-clinical-uses.mp3"
+                 length="0"
+                 type="audio/mpeg"/>
+      <guid>https://archive.org/download/endotracheal-tubes-types-features-and-clinical-uses/endotracheal-tubes-types-features-and-clinical-uses.mp3</guid>
+      <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
+      <itunes:duration>21:47</itunes:duration>
+    </item>
+  </channel>
+</rss>
